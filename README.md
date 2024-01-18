@@ -1,3 +1,19 @@
+![Captura de Tela (45)](https://github.com/PauloAquarius0299/larperfeito-website/assets/114706743/344ee82e-1aa6-4f75-b724-8266a7725878)
+
+# 🔑 LarPerfeito Website
+Praticando layouts com usando Grid no CSS, com React
+## 🚪 Introdução
+Criando uma interface simples para prática do layout em GRID. Objetivo é estilização de imagens e textos em forma de box.
+### 💡 Pre-Requisitos
+React e Css
+### 🛠️ Ferramentas
+![image](https://github.com/PauloAquarius0299/larperfeito-website/assets/114706743/0c2cb047-eb4b-4f83-86d7-a9356b882fb3)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🏘️ Link
+https://larperfeito-web.netlify.app/
+![Captura de Tela (46)](https://github.com/PauloAquarius0299/larperfeito-website/assets/114706743/92818257-4b7f-455a-8df4-1907fc09f69e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
